@@ -12,7 +12,7 @@ A serverless **Story to Audio Converter** built using **Amazon Polly, AWS Lambda
 
 ## Dashboard
 
-![Dashboard](screenshots/Story to Audio Converter.png)
+![Dashboard](Story to Audio Converter.png)
 
 
 ---
